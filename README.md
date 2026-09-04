@@ -5,7 +5,7 @@
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://your-app-url.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://m-bilal-habib-pdf-curriculum-reader-frontend-iswaya.streamlit.app/)
 [![Python](https://img.shields.io/badge/PYTHON-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Model](https://img.shields.io/badge/MODEL-GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
 [![Framework](https://img.shields.io/badge/FRAMEWORK-LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://python.langchain.com/)
